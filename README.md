@@ -1,11 +1,11 @@
 # A-script-to-ban-your-Roblox-account
-This script is specifically designed to ban certain Chinese Roblox players who abuse scripts. 
+-This script is specifically designed to ban certain Chinese Roblox players who abuse scripts. 
 As a Chinese person, I feel ashamed of their behavior.
-*----DO NOT USE THIS SCRIPT YOUR ACCOUNT WILL GET BAN----*
-*----DO NOT USE THIS SCRIPT YOUR ACCOUNT WILL GET BAN----*
-*----DO NOT USE THIS SCRIPT YOUR ACCOUNT WILL GET BAN----*
-*----DO NOT USE THIS SCRIPT YOUR ACCOUNT WILL GET BAN----*
-what will this script do¿? :
+- *----DO NOT USE THIS SCRIPT YOUR ACCOUNT WILL GET BAN----*
+- *----DO NOT USE THIS SCRIPT YOUR ACCOUNT WILL GET BAN----*
+- *----DO NOT USE THIS SCRIPT YOUR ACCOUNT WILL GET BAN----*
+- *----DO NOT USE THIS SCRIPT YOUR ACCOUNT WILL GET BAN----*
+# what will this script do¿? :
 - Disable F9  
 - Disable chat  
 - Send messages with bad words  
