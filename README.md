@@ -6,7 +6,7 @@ As a Chinese person, I feel ashamed of their behavior.
 - *----DO NOT USE THIS SCRIPT YOUR ACCOUNT WILL GET BAN----*
 - *----DO NOT USE THIS SCRIPT YOUR ACCOUNT WILL GET BAN----*
 # what will this script do¿? :
-- Disable F9  
+- Disable dev console
 - Disable chat  
 - Send messages with bad words  
 - Fill the log with crap  
