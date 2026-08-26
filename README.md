@@ -13,3 +13,4 @@ As a Chinese person, I feel ashamed of their behavior.
 - Modify a remote event in 'events' (pressure)  
 - Freeze the client after 25 seconds  
 - Disable players entering the locker after 5 seconds (pressure)
+- go through the badge list and send badge request If it reaches the end it will go through it again.
